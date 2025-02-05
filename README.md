@@ -1,4 +1,4 @@
-http://localhost:4200/about
+GYM         - http://localhost:4200/about
 
 
-http://localhost:3001/
+AGRICULTURE - http://localhost:3001/
